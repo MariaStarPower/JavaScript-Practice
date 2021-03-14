@@ -1,2 +1,2 @@
 # JavaScript-Practice
-These are basic JavaScript exercises.
+Here are some basic JavaScript exercises.
